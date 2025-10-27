@@ -6,7 +6,7 @@ It uses a microcontroller, temperature sensor, and PWM control to regulate fan s
 ## 📄 Files Included
 - ✅ Project Report (PDF)
 - 🎤 Project Presentation (PPT)
-- 💻 Source Code (if added)
+
 
 ## 🎯 Project Output
 - Automatically controls fan speed
