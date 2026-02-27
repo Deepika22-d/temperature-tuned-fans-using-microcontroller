@@ -8,103 +8,98 @@
 
 An intelligent system designed to automatically control fan speed based on real-time temperature readings using a Microcontroller and Temperature Sensor.
 
-This system ensures:
+This solution helps to:
 
-✔ Automatic speed adjustment
-✔ Energy efficiency
-✔ Improved user comfort
-✔ Reduced electricity consumption
+✔ Maintain optimal room temperature
+✔ Reduce electricity consumption
+✔ Improve user comfort
+✔ Enable smart automation
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🌡 𝗣𝗥𝗢𝗕𝗟𝗘𝗠 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦
+🌡 𝗣𝗥𝗢𝗕𝗟𝗘𝗠 𝗦𝗧𝗔𝗧𝗘𝗠𝗘𝗡𝗧
 
-Traditional fan systems have several limitations:
+Conventional fan systems face several limitations:
 
-• Manual speed control
-• No real-time monitoring
-• Energy wastage
-• Inconsistent cooling in changing environments
+• Manual speed adjustment
+• No automatic temperature monitoring
+• Energy wastage due to continuous running
+• Inconsistent cooling during temperature fluctuations
 
-👉 A smart temperature-based control system is required to provide efficient and responsive cooling.
+👉 A smart temperature-based automated control system is essential for efficient and responsive cooling.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 💡 𝗣𝗥𝗢𝗣𝗢𝗦𝗘𝗗 𝗦𝗢𝗟𝗨𝗧𝗜𝗢𝗡
 
-The system uses:
+This system integrates:
 
 🌡 Temperature Sensor (DHT11 / LM35)
 🧠 Microcontroller (Arduino / ESP32)
-⚡ PWM-based Speed Control
-🔌 MOSFET Motor Driver
-🖥 LCD Display for Status
+⚡ PWM-based Speed Control Mechanism
+🔌 MOSFET Motor Driver Circuit
+🖥 LCD Display for Real-Time Status
 
-
-✔ Reads real-time temperature
+✔ Reads real-time temperature continuously
 ✔ Adjusts fan speed automatically
-✔ Runs fan only when required
-✔ Displays temperature & fan status
+✔ Operates fan only when required
+✔ Displays temperature and fan condition
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🎯 𝗢𝗕𝗝𝗘𝗖𝗧𝗜𝗩𝗘𝗦
 
-✔ Design automatic fan speed controller
-✔ Improve thermal comfort
+✔ Design an automatic fan speed controller
+✔ Achieve temperature-based dynamic control
 ✔ Reduce manual intervention
 ✔ Minimize energy consumption
-✔ Develop cost-effective smart solution
+✔ Develop a cost-effective smart home solution
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🛠 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗬 𝗔𝗗𝗢𝗣𝗧𝗘𝗗
 
-🔹 Microcontroller (Arduino / ESP32)
-Main controller for processing and control
+🔹 Microcontroller (Arduino / ESP32) – Core processing unit
 
-🔹 Temperature Sensor (DHT11 / LM35)
-Measures ambient temperature
+🔹 Temperature Sensor (DHT11 / LM35) – Measures ambient temperature
 
-🔹 PWM (Pulse Width Modulation)
-Controls fan speed dynamically
+🔹 PWM (Pulse Width Modulation) – Controls fan speed proportionally
 
-🔹 Motor Driver (MOSFET)
-Drives the fan safely
+🔹 MOSFET Motor Driver – Safely drives the fan load
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ⚙️ 𝗦𝗬𝗦𝗧𝗘𝗠 𝗪𝗢𝗥𝗞𝗙𝗟𝗢𝗪
 
-1️⃣ Measure room temperature
-2️⃣ Send data to microcontroller
-3️⃣ Compare with predefined thresholds
-4️⃣ Generate PWM signal
-5️⃣ Adjust fan speed automatically
-6️⃣ Display real-time status
+1️⃣ Measure ambient temperature
+2️⃣ Send temperature data to microcontroller
+3️⃣ Compare with predefined threshold values
+4️⃣ Generate PWM output signal
+5️⃣ Adjust fan speed accordingly
+6️⃣ Display real-time system status
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📊 𝗥𝗘𝗦𝗨𝗟𝗧𝗦
 
-✔ Automatic temperature-based speed control
-✔ Energy-efficient operation
+✔ Accurate temperature-based speed variation
+✔ Improved energy efficiency
 ✔ Reduced electricity usage
-✔ Improved comfort level
-✔ Smart home compatible
+✔ Enhanced comfort level
+✔ Suitable for smart home automation
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🏠 𝗔𝗣𝗣𝗟𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦
 
 • Smart homes
-• Offices
+• Office rooms
 • Classrooms
 • Laboratories
-• Industrial rooms
+• Industrial workspaces
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🎓 𝗖𝗢𝗡𝗖𝗟𝗨𝗦𝗜𝗢𝗡
 
-The project successfully demonstrates a Temperature-Based Automatic Fan Control System using a microcontroller and PWM technique.
+The project successfully demonstrates a Temperature-Based Automatic Fan Speed Control System using microcontroller and PWM technology.
